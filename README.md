@@ -1,12 +1,21 @@
-This project focuses on clustering users based on their movie-watching behavior using unsupervised machine learning.
-The dataset includes features like watch time, genre preferences, and average movie ratings.
-By applying KMeans clustering and PCA-based visualization, the project uncovers user segments with similar viewing patterns. 
-These insights can be used for building personalized recommendation systems and understanding audience behavior.
-This project analyzes movie-watching behavior by clustering users into distinct groups based on:
-
- Time of watching (hour of the day)
-
-Genre preference (action, comedy, drama, thriller)
-
- Rating patterns (average ratings given)
-
+Hi, I'm Praveer Singh
+🎓 Computer Science (AI) Undergraduate
+💡 Passionate about Web Development, AI & Real-World Problem Solving
+🚀 Building impactful projects for startups & hackathons
+🧠 About Me
+💻 Skilled in Data Structures, Web Development & Machine Learning
+🛠️ Built projects like:
+📦 Lost & Found System
+💊 Medicine Management System
+📊 Loan Default Prediction Model
+🎯 Currently exploring Full Stack Development & Generative AI
+🏆 Actively participating in hackathons & tech communities
+🚀 Tech Stack
+Languages:
+Java • Python • JavaScript
+Web Development:
+HTML • CSS • React • Node.js • Express
+Database:
+MongoDB • SQL
+Tools & Platforms:
+Git • GitHub • Postman • AWS
